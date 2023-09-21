@@ -1,4 +1,4 @@
-# Simple Notes App
+# Simple Notes App [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fajitfawade%2Fdjango-notes-app&countColor=%232ccce4&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fajitfawade%2Fdjango-notes-app)
 This is a simple notes app built with React and Django.
 
 ## Requirements
